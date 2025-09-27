@@ -1,0 +1,14 @@
+D:\DotNetCyberSoft\Buổi 1\AdditionalExcercises\ex4\bin\Debug\net9.0\ex4.exe
+D:\DotNetCyberSoft\Buổi 1\AdditionalExcercises\ex4\bin\Debug\net9.0\ex4.deps.json
+D:\DotNetCyberSoft\Buổi 1\AdditionalExcercises\ex4\bin\Debug\net9.0\ex4.runtimeconfig.json
+D:\DotNetCyberSoft\Buổi 1\AdditionalExcercises\ex4\bin\Debug\net9.0\ex4.dll
+D:\DotNetCyberSoft\Buổi 1\AdditionalExcercises\ex4\bin\Debug\net9.0\ex4.pdb
+D:\DotNetCyberSoft\Buổi 1\AdditionalExcercises\ex4\obj\Debug\net9.0\ex4.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetCyberSoft\Buổi 1\AdditionalExcercises\ex4\obj\Debug\net9.0\ex4.AssemblyInfoInputs.cache
+D:\DotNetCyberSoft\Buổi 1\AdditionalExcercises\ex4\obj\Debug\net9.0\ex4.AssemblyInfo.cs
+D:\DotNetCyberSoft\Buổi 1\AdditionalExcercises\ex4\obj\Debug\net9.0\ex4.csproj.CoreCompileInputs.cache
+D:\DotNetCyberSoft\Buổi 1\AdditionalExcercises\ex4\obj\Debug\net9.0\ex4.dll
+D:\DotNetCyberSoft\Buổi 1\AdditionalExcercises\ex4\obj\Debug\net9.0\refint\ex4.dll
+D:\DotNetCyberSoft\Buổi 1\AdditionalExcercises\ex4\obj\Debug\net9.0\ex4.pdb
+D:\DotNetCyberSoft\Buổi 1\AdditionalExcercises\ex4\obj\Debug\net9.0\ex4.genruntimeconfig.cache
+D:\DotNetCyberSoft\Buổi 1\AdditionalExcercises\ex4\obj\Debug\net9.0\ref\ex4.dll

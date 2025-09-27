@@ -1,0 +1,14 @@
+D:\DotNetCyberSoft\Buổi 1\AdditionalExcercises\ex6\bin\Debug\net9.0\ex6.exe
+D:\DotNetCyberSoft\Buổi 1\AdditionalExcercises\ex6\bin\Debug\net9.0\ex6.deps.json
+D:\DotNetCyberSoft\Buổi 1\AdditionalExcercises\ex6\bin\Debug\net9.0\ex6.runtimeconfig.json
+D:\DotNetCyberSoft\Buổi 1\AdditionalExcercises\ex6\bin\Debug\net9.0\ex6.dll
+D:\DotNetCyberSoft\Buổi 1\AdditionalExcercises\ex6\bin\Debug\net9.0\ex6.pdb
+D:\DotNetCyberSoft\Buổi 1\AdditionalExcercises\ex6\obj\Debug\net9.0\ex6.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetCyberSoft\Buổi 1\AdditionalExcercises\ex6\obj\Debug\net9.0\ex6.AssemblyInfoInputs.cache
+D:\DotNetCyberSoft\Buổi 1\AdditionalExcercises\ex6\obj\Debug\net9.0\ex6.AssemblyInfo.cs
+D:\DotNetCyberSoft\Buổi 1\AdditionalExcercises\ex6\obj\Debug\net9.0\ex6.csproj.CoreCompileInputs.cache
+D:\DotNetCyberSoft\Buổi 1\AdditionalExcercises\ex6\obj\Debug\net9.0\ex6.dll
+D:\DotNetCyberSoft\Buổi 1\AdditionalExcercises\ex6\obj\Debug\net9.0\refint\ex6.dll
+D:\DotNetCyberSoft\Buổi 1\AdditionalExcercises\ex6\obj\Debug\net9.0\ex6.pdb
+D:\DotNetCyberSoft\Buổi 1\AdditionalExcercises\ex6\obj\Debug\net9.0\ex6.genruntimeconfig.cache
+D:\DotNetCyberSoft\Buổi 1\AdditionalExcercises\ex6\obj\Debug\net9.0\ref\ex6.dll
