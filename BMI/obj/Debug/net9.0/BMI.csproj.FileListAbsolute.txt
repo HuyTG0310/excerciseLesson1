@@ -1,0 +1,15 @@
+D:\DotNetCyberSoft\Buổi 1\AdditionalExcercises\BMI\bin\Debug\net9.0\BMI.exe
+D:\DotNetCyberSoft\Buổi 1\AdditionalExcercises\BMI\bin\Debug\net9.0\BMI.deps.json
+D:\DotNetCyberSoft\Buổi 1\AdditionalExcercises\BMI\bin\Debug\net9.0\BMI.runtimeconfig.json
+D:\DotNetCyberSoft\Buổi 1\AdditionalExcercises\BMI\bin\Debug\net9.0\BMI.dll
+D:\DotNetCyberSoft\Buổi 1\AdditionalExcercises\BMI\bin\Debug\net9.0\BMI.pdb
+D:\DotNetCyberSoft\Buổi 1\AdditionalExcercises\BMI\obj\Debug\net9.0\BMI.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetCyberSoft\Buổi 1\AdditionalExcercises\BMI\obj\Debug\net9.0\BMI.AssemblyInfoInputs.cache
+D:\DotNetCyberSoft\Buổi 1\AdditionalExcercises\BMI\obj\Debug\net9.0\BMI.AssemblyInfo.cs
+D:\DotNetCyberSoft\Buổi 1\AdditionalExcercises\BMI\obj\Debug\net9.0\BMI.csproj.CoreCompileInputs.cache
+D:\DotNetCyberSoft\Buổi 1\AdditionalExcercises\BMI\obj\Debug\net9.0\BMI.sourcelink.json
+D:\DotNetCyberSoft\Buổi 1\AdditionalExcercises\BMI\obj\Debug\net9.0\BMI.dll
+D:\DotNetCyberSoft\Buổi 1\AdditionalExcercises\BMI\obj\Debug\net9.0\refint\BMI.dll
+D:\DotNetCyberSoft\Buổi 1\AdditionalExcercises\BMI\obj\Debug\net9.0\BMI.pdb
+D:\DotNetCyberSoft\Buổi 1\AdditionalExcercises\BMI\obj\Debug\net9.0\BMI.genruntimeconfig.cache
+D:\DotNetCyberSoft\Buổi 1\AdditionalExcercises\BMI\obj\Debug\net9.0\ref\BMI.dll
